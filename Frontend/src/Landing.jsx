@@ -1046,7 +1046,7 @@ export default function Landing() {
            onClick={() => setCurrentView('dashboard')}
          >
             <div className="w-8 h-8 bg-[#749962] rounded-md shadow-sm"></div>
-            TRAVELOOP
+            TRAVERSEHUB
          </div>
       </header>
 
@@ -1150,7 +1150,7 @@ export default function Landing() {
       <footer className="bg-[#111111] border-t border-[#1f1f1f] mt-16">
         <div className="max-w-6xl mx-auto px-6 py-10 flex flex-col md:flex-row gap-6 md:items-center md:justify-between">
           <div>
-            <p className="text-[#c6e3b6] text-2xl md:text-3xl font-black tracking-wider">TRAVELOOP</p>
+            <p className="text-[#c6e3b6] text-2xl md:text-3xl font-black tracking-wider">TRAVERSEHUB</p>
             <p className="text-sm text-gray-400 mt-1">Plan smarter trips with itinerary, budget, and sharing in one place.</p>
           </div>
           <div className="flex items-center gap-5 text-sm text-gray-400">

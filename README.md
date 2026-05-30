@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 TRAVELOOP
+# 🌍 TRAVERSEHUB
 
 ### AI Powered Travel Planning Platform
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a3ff00,100:0f0f0f&height=220&section=header&text=Traveloop&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a3ff00,100:0f0f0f&height=220&section=header&text=TraverseHub&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### ✈️ Smart Travel Discovery with AI
 
@@ -69,7 +69,7 @@ Modern AI-powered travel planner that helps users discover destinations dynamica
 # 📂 Project Structure
 
 ```bash
-Traveloop
+TraverseHub
 │
 ├── frontend
 │   ├── src
@@ -97,9 +97,9 @@ Traveloop
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/traveloop.git
+git clone https://github.com/your-username/TraverseHub.git
 
-cd traveloop
+cd TraverseHub
 ```
 
 ---

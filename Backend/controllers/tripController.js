@@ -354,7 +354,7 @@ const generateShareLink = async (req, res) => {
 
     res.json({
       shareCode: trip.shareCode,
-      shareUrl: `https://traveloop.app/t/${trip.shareCode}`
+      shareUrl: `https://traversehub.app/t/${trip.shareCode}`
     });
   } catch (error) {
     res.status(500).json({ message: error.message });
